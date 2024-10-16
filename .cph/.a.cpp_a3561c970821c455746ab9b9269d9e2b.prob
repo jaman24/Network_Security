@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/jaman/Downloads/IS codes/a.cpp","tests":[{"id":1729101113221,"input":"100000007700000049","output":""},{"id":1729101284904,"input":"999999999999999989","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/jaman/Downloads/IS codes/a.cpp","group":"local","local":true}
